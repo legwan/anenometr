@@ -1,0 +1,2 @@
+# anenometr
+Seafarer anenometer code
